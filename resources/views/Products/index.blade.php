@@ -33,6 +33,7 @@
                                 <td>{{ $product->description }}</td>
                                 <td>{{ $product->price }}</td>
                                 <td>
+                                    <!-- HOLA DIEGO -->
                                     <a class="btn btn-danger">Eliminar</a>
                                 </td>
                             </tr>
